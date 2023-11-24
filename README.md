@@ -32,7 +32,7 @@ Evaluation:
 Model accuracy and classification reports are generated to evaluate the performance of the classifiers.
 
 
-Dependencies
+Dependencies:
 
 1)wikipedia
 
