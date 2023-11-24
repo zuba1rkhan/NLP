@@ -1,6 +1,8 @@
 This project aims to classify Wikipedia articles into medical and non-medical categories using Natural Language Processing (NLP) techniques. The classification is performed based on the textual content of the articles.
 
 Project Structure
+
+
 Data Collection:
 
 Wikipedia articles are collected using the Wikipedia API.
