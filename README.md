@@ -18,6 +18,7 @@ Multinomial Naive Bayes and Logistic Regression classifiers are trained on the l
 
 Evaluation:
 Model accuracy and classification reports are generated to evaluate the performance of the classifiers.
+
 Dependencies
 wikipedia
 requests
